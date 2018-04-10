@@ -1,6 +1,1069 @@
 Grailbird.data.tweets_2018_03 = 
 [
 	{
+		"created_at": "Sat Mar 24 13:30:51 +0000 2018",
+		"id": 977538236255031300,
+		"id_str": "977538236255031296",
+		"text": "RT @SarahEBond: If you'd like to read more about old age in the ancient Mediterranean, please try:\n1. @timboartemis's Roman old age book: h…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SarahEBond",
+					"name": "Sarah Bond",
+					"id": 298785229,
+					"id_str": "298785229",
+					"indices": [
+						3,
+						14
+					]
+				},
+				{
+					"screen_name": "timboartemis",
+					"name": "Tim Parkin",
+					"id": 45327384,
+					"id_str": "45327384",
+					"indices": [
+						102,
+						115
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 505046934,
+			"id_str": "505046934",
+			"name": "Philhellenes",
+			"screen_name": "philhellenes",
+			"location": "Heraklion, Crete",
+			"description": "Account of https://t.co/K1JFEoKWE3, tweeting news and information for lovers of Greece and its culture. Managed by @keithfrankish. Photo credit Mstyslav Chernov",
+			"url": "https://t.co/K1JFEoKWE3",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/K1JFEoKWE3",
+							"expanded_url": "http://www.philhellenes.org",
+							"display_url": "philhellenes.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/K1JFEoKWE3",
+							"expanded_url": "http://www.philhellenes.org",
+							"display_url": "philhellenes.org",
+							"indices": [
+								11,
+								34
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 93,
+			"friends_count": 126,
+			"listed_count": 2,
+			"created_at": "Sun Feb 26 21:44:27 +0000 2012",
+			"favourites_count": 7,
+			"utc_offset": 10800,
+			"time_zone": "Athens",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 355,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/706198465/bf6879ffb7f2320d865bb6291692a262.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/706198465/bf6879ffb7f2320d865bb6291692a262.jpeg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/976348832740052992/Sn7jSlf7_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/976348832740052992/Sn7jSlf7_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/505046934/1521614907",
+			"profile_link_color": "15366B",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Mar 24 12:59:26 +0000 2018",
+			"id": 977530329882857500,
+			"id_str": "977530329882857472",
+			"text": "If you'd like to read more about old age in the ancient Mediterranean, please try:\n1. @timboartemis's Roman old age… https://t.co/vgIWXwCBzw",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "timboartemis",
+						"name": "Tim Parkin",
+						"id": 45327384,
+						"id_str": "45327384",
+						"indices": [
+							86,
+							99
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/vgIWXwCBzw",
+						"expanded_url": "https://twitter.com/i/web/status/977530329882857472",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 298785229,
+				"id_str": "298785229",
+				"name": "Sarah Bond",
+				"screen_name": "SarahEBond",
+				"location": "Iowa City, IA",
+				"description": "Assistant Professor of Classics @Uiowa, regular contributor @Hyperallergic, editor of the @SCSclassics blog. Digital \n\nHumanities, Late Antiquity, Deviled Eggs.",
+				"url": "https://t.co/CjNh2zZUj1",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/CjNh2zZUj1",
+								"expanded_url": "https://sarahemilybond.com/",
+								"display_url": "sarahemilybond.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 16592,
+				"friends_count": 995,
+				"listed_count": 529,
+				"created_at": "Sat May 14 23:02:45 +0000 2011",
+				"favourites_count": 29194,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 24993,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "022330",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/471974495125639168/rYVoX8d7.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/471974495125639168/rYVoX8d7.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/422877005076389888/WhJIEjrp_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/422877005076389888/WhJIEjrp_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/298785229/1497288905",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "C0DFEC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 24,
+			"favorite_count": 43,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 24,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sat Mar 24 13:30:31 +0000 2018",
+		"id": 977538152196960300,
+		"id_str": "977538152196960256",
+		"text": "RT @greekhistorypod: A tiny Cretan Hieroglyphic seal stone, dating to the 19th-17th centuries BC, is a minute but fascinating testament to…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "greekhistorypod",
+					"name": "GreekHistory Podcast",
+					"id": 717335588085567500,
+					"id_str": "717335588085567488",
+					"indices": [
+						3,
+						19
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 505046934,
+			"id_str": "505046934",
+			"name": "Philhellenes",
+			"screen_name": "philhellenes",
+			"location": "Heraklion, Crete",
+			"description": "Account of https://t.co/K1JFEoKWE3, tweeting news and information for lovers of Greece and its culture. Managed by @keithfrankish. Photo credit Mstyslav Chernov",
+			"url": "https://t.co/K1JFEoKWE3",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/K1JFEoKWE3",
+							"expanded_url": "http://www.philhellenes.org",
+							"display_url": "philhellenes.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/K1JFEoKWE3",
+							"expanded_url": "http://www.philhellenes.org",
+							"display_url": "philhellenes.org",
+							"indices": [
+								11,
+								34
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 93,
+			"friends_count": 126,
+			"listed_count": 2,
+			"created_at": "Sun Feb 26 21:44:27 +0000 2012",
+			"favourites_count": 7,
+			"utc_offset": 10800,
+			"time_zone": "Athens",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 355,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/706198465/bf6879ffb7f2320d865bb6291692a262.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/706198465/bf6879ffb7f2320d865bb6291692a262.jpeg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/976348832740052992/Sn7jSlf7_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/976348832740052992/Sn7jSlf7_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/505046934/1521614907",
+			"profile_link_color": "15366B",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Mar 24 13:00:24 +0000 2018",
+			"id": 977530569587351600,
+			"id_str": "977530569587351552",
+			"text": "A tiny Cretan Hieroglyphic seal stone, dating to the 19th-17th centuries BC, is a minute but fascinating testament… https://t.co/X27aOaxdfL",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/X27aOaxdfL",
+						"expanded_url": "https://twitter.com/i/web/status/977530569587351552",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							116,
+							139
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 717335588085567500,
+				"id_str": "717335588085567488",
+				"name": "GreekHistory Podcast",
+				"screen_name": "greekhistorypod",
+				"location": "United States",
+				"description": "Podcast covering Ancient Greek & Hellenistic political, social, and cultural history 🏛🏺 / Tweets by producer and host Ryan Stitt",
+				"url": "https://t.co/hR3xBpEThd",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/hR3xBpEThd",
+								"expanded_url": "http://thehistoryofancientgreece.com",
+								"display_url": "thehistoryofancientgreece.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 9365,
+				"friends_count": 974,
+				"listed_count": 204,
+				"created_at": "Tue Apr 05 12:58:26 +0000 2016",
+				"favourites_count": 8241,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 6062,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/981719271100309504/Y5F6keM8_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/981719271100309504/Y5F6keM8_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/717335588085567488/1460084998",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 11,
+			"favorite_count": 41,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 11,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sat Mar 24 13:29:10 +0000 2018",
+		"id": 977537809144836100,
+		"id_str": "977537809144836096",
+		"text": "RT @fatgreekodyssey: A #Scottish writer tries to solve a family war mystery with her #expat father in #Greece? \"A tale of heroism, faith an…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Scottish",
+					"indices": [
+						23,
+						32
+					]
+				},
+				{
+					"text": "expat",
+					"indices": [
+						85,
+						91
+					]
+				},
+				{
+					"text": "Greece",
+					"indices": [
+						102,
+						109
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "fatgreekodyssey",
+					"name": "Marjory McGinn",
+					"id": 239304867,
+					"id_str": "239304867",
+					"indices": [
+						3,
+						19
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 505046934,
+			"id_str": "505046934",
+			"name": "Philhellenes",
+			"screen_name": "philhellenes",
+			"location": "Heraklion, Crete",
+			"description": "Account of https://t.co/K1JFEoKWE3, tweeting news and information for lovers of Greece and its culture. Managed by @keithfrankish. Photo credit Mstyslav Chernov",
+			"url": "https://t.co/K1JFEoKWE3",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/K1JFEoKWE3",
+							"expanded_url": "http://www.philhellenes.org",
+							"display_url": "philhellenes.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/K1JFEoKWE3",
+							"expanded_url": "http://www.philhellenes.org",
+							"display_url": "philhellenes.org",
+							"indices": [
+								11,
+								34
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 93,
+			"friends_count": 126,
+			"listed_count": 2,
+			"created_at": "Sun Feb 26 21:44:27 +0000 2012",
+			"favourites_count": 7,
+			"utc_offset": 10800,
+			"time_zone": "Athens",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 355,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/706198465/bf6879ffb7f2320d865bb6291692a262.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/706198465/bf6879ffb7f2320d865bb6291692a262.jpeg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/976348832740052992/Sn7jSlf7_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/976348832740052992/Sn7jSlf7_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/505046934/1521614907",
+			"profile_link_color": "15366B",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Mar 24 13:06:18 +0000 2018",
+			"id": 977532054421344300,
+			"id_str": "977532054421344257",
+			"text": "A #Scottish writer tries to solve a family war mystery with her #expat father in #Greece? \"A tale of heroism, faith… https://t.co/QEE9zVTkVK",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "Scottish",
+						"indices": [
+							2,
+							11
+						]
+					},
+					{
+						"text": "expat",
+						"indices": [
+							64,
+							70
+						]
+					},
+					{
+						"text": "Greece",
+						"indices": [
+							81,
+							88
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/QEE9zVTkVK",
+						"expanded_url": "https://twitter.com/i/web/status/977532054421344257",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 239304867,
+				"id_str": "239304867",
+				"name": "Marjory McGinn",
+				"screen_name": "fatgreekodyssey",
+				"location": "Sussex, UK and Ελλάδα",
+				"description": "Author of Greek memoirs and new novel, A Saint For The Summer https://t.co/lTUA8oZgqW\nScot/Aussie journo & philhellene.",
+				"url": "http://t.co/n4cNHq489j",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/n4cNHq489j",
+								"expanded_url": "http://www.bigfatgreekodyssey.com",
+								"display_url": "bigfatgreekodyssey.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/lTUA8oZgqW",
+								"expanded_url": "http://amzn.eu/aj5bkc8",
+								"display_url": "amzn.eu/aj5bkc8",
+								"indices": [
+									62,
+									85
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 3283,
+				"friends_count": 2905,
+				"listed_count": 125,
+				"created_at": "Mon Jan 17 09:08:04 +0000 2011",
+				"favourites_count": 2630,
+				"utc_offset": 10800,
+				"time_zone": "Athens",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 8118,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "642D8B",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/654122383/z9y72w9vrqmp47a35gn4.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/654122383/z9y72w9vrqmp47a35gn4.jpeg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/801806995154202625/C6u01EeH_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/801806995154202625/C6u01EeH_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/239304867/1519906726",
+				"profile_link_color": "0088FF",
+				"profile_sidebar_border_color": "EEEEEE",
+				"profile_sidebar_fill_color": "F6F6F6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri Mar 23 06:24:56 +0000 2018",
+		"id": 977068659939082200,
+		"id_str": "977068659939082240",
+		"text": "The Philhellenes website at https://t.co/mwOsZOZPem is for people who love Greece and Greek culture. Guest posts ar… https://t.co/jEmi8898vq",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/mwOsZOZPem",
+					"expanded_url": "http://www.philhellenes.org",
+					"display_url": "philhellenes.org",
+					"indices": [
+						28,
+						51
+					]
+				},
+				{
+					"url": "https://t.co/jEmi8898vq",
+					"expanded_url": "https://twitter.com/i/web/status/977068659939082240",
+					"display_url": "twitter.com/i/web/status/9…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 505046934,
+			"id_str": "505046934",
+			"name": "Philhellenes",
+			"screen_name": "philhellenes",
+			"location": "Heraklion, Crete",
+			"description": "Account of https://t.co/K1JFEoKWE3, tweeting news and information for lovers of Greece and its culture. Managed by @keithfrankish. Photo credit Mstyslav Chernov",
+			"url": "https://t.co/K1JFEoKWE3",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/K1JFEoKWE3",
+							"expanded_url": "http://www.philhellenes.org",
+							"display_url": "philhellenes.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/K1JFEoKWE3",
+							"expanded_url": "http://www.philhellenes.org",
+							"display_url": "philhellenes.org",
+							"indices": [
+								11,
+								34
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 93,
+			"friends_count": 126,
+			"listed_count": 2,
+			"created_at": "Sun Feb 26 21:44:27 +0000 2012",
+			"favourites_count": 7,
+			"utc_offset": 10800,
+			"time_zone": "Athens",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 355,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/706198465/bf6879ffb7f2320d865bb6291692a262.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/706198465/bf6879ffb7f2320d865bb6291692a262.jpeg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/976348832740052992/Sn7jSlf7_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/976348832740052992/Sn7jSlf7_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/505046934/1521614907",
+			"profile_link_color": "15366B",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri Mar 23 06:21:00 +0000 2018",
+		"id": 977067671115190300,
+		"id_str": "977067671115190272",
+		"text": "RT @keithfrankish: Η Σαχάρα “αγκάλιασε” το Ηράκλειο: Ο κατά τα άλλα γαλανός κρητικός ουρανός έγινε… πορτοκαλί | https://t.co/k06uenNsGz htt…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "keithfrankish",
+					"name": "Keith Frankish",
+					"id": 52522040,
+					"id_str": "52522040",
+					"indices": [
+						3,
+						17
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/k06uenNsGz",
+					"expanded_url": "http://Mignatiou.com",
+					"display_url": "Mignatiou.com",
+					"indices": [
+						112,
+						135
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 505046934,
+			"id_str": "505046934",
+			"name": "Philhellenes",
+			"screen_name": "philhellenes",
+			"location": "Heraklion, Crete",
+			"description": "Account of https://t.co/K1JFEoKWE3, tweeting news and information for lovers of Greece and its culture. Managed by @keithfrankish. Photo credit Mstyslav Chernov",
+			"url": "https://t.co/K1JFEoKWE3",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/K1JFEoKWE3",
+							"expanded_url": "http://www.philhellenes.org",
+							"display_url": "philhellenes.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/K1JFEoKWE3",
+							"expanded_url": "http://www.philhellenes.org",
+							"display_url": "philhellenes.org",
+							"indices": [
+								11,
+								34
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 93,
+			"friends_count": 126,
+			"listed_count": 2,
+			"created_at": "Sun Feb 26 21:44:27 +0000 2012",
+			"favourites_count": 7,
+			"utc_offset": 10800,
+			"time_zone": "Athens",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 355,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/706198465/bf6879ffb7f2320d865bb6291692a262.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/706198465/bf6879ffb7f2320d865bb6291692a262.jpeg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/976348832740052992/Sn7jSlf7_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/976348832740052992/Sn7jSlf7_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/505046934/1521614907",
+			"profile_link_color": "15366B",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Mar 23 05:38:14 +0000 2018",
+			"id": 977056910565429200,
+			"id_str": "977056910565429249",
+			"text": "Η Σαχάρα “αγκάλιασε” το Ηράκλειο: Ο κατά τα άλλα γαλανός κρητικός ουρανός έγινε… πορτοκαλί | https://t.co/k06uenNsGz https://t.co/XF32FcdpnO",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/k06uenNsGz",
+						"expanded_url": "http://Mignatiou.com",
+						"display_url": "Mignatiou.com",
+						"indices": [
+							93,
+							116
+						]
+					},
+					{
+						"url": "https://t.co/XF32FcdpnO",
+						"expanded_url": "http://ow.ly/JiXP30j6XDD",
+						"display_url": "ow.ly/JiXP30j6XDD",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 52522040,
+				"id_str": "52522040",
+				"name": "Keith Frankish",
+				"screen_name": "keithfrankish",
+				"location": "Heraklion, Crete, Greece",
+				"description": "Philosopher & writer. European. Honorary Reader @sheffielduni. Interests in consciousness, reasoning, belief. Tweeting phil mind, cog sci, Greece, links & chat.",
+				"url": "http://t.co/tXhT44huzC",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/tXhT44huzC",
+								"expanded_url": "http://www.keithfrankish.com",
+								"display_url": "keithfrankish.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 6814,
+				"friends_count": 1694,
+				"listed_count": 427,
+				"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+				"favourites_count": 17806,
+				"utc_offset": 10800,
+				"time_zone": "Athens",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 42393,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "304075",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/238996900/KF_twitter_vert_banner.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/238996900/KF_twitter_vert_banner.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/957403073424646149/j6plkiSQ_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/957403073424646149/j6plkiSQ_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1521820974",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "BDDCAD",
+				"profile_sidebar_fill_color": "C0C6CC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "el"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "el"
+	},
+	{
 		"created_at": "Thu Mar 22 19:54:16 +0000 2018",
 		"id": 976909948570521600,
 		"id_str": "976909948570521602",
