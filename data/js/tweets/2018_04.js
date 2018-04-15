@@ -1,6 +1,117 @@
 Grailbird.data.tweets_2018_04 = 
 [
 	{
+		"created_at": "Sat Apr 14 21:26:28 +0000 2018",
+		"id": 985268071668637700,
+		"id_str": "985268071668637696",
+		"text": "A plate of mezedes from Philhellenes: Meeting Patrick Leigh Fermour, Why Greek debt kept rising, Greece &amp; Ethiopia,… https://t.co/2Ux7KG8YZd",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/2Ux7KG8YZd",
+					"expanded_url": "https://twitter.com/i/web/status/985268071668637696",
+					"display_url": "twitter.com/i/web/status/9…",
+					"indices": [
+						121,
+						144
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 505046934,
+			"id_str": "505046934",
+			"name": "Philhellenes",
+			"screen_name": "philhellenes",
+			"location": "Heraklion, Crete",
+			"description": "Account of https://t.co/K1JFEoKWE3, tweeting news and information for lovers of Greece and its culture. Edited by @keithfrankish. Photo credit Mstyslav Chernov",
+			"url": "https://t.co/K1JFEoKWE3",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/K1JFEoKWE3",
+							"expanded_url": "http://www.philhellenes.org",
+							"display_url": "philhellenes.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/K1JFEoKWE3",
+							"expanded_url": "http://www.philhellenes.org",
+							"display_url": "philhellenes.org",
+							"indices": [
+								11,
+								34
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 92,
+			"friends_count": 127,
+			"listed_count": 2,
+			"created_at": "Sun Feb 26 21:44:27 +0000 2012",
+			"favourites_count": 7,
+			"utc_offset": 10800,
+			"time_zone": "Athens",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 356,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/706198465/bf6879ffb7f2320d865bb6291692a262.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/706198465/bf6879ffb7f2320d865bb6291692a262.jpeg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/976348832740052992/Sn7jSlf7_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/976348832740052992/Sn7jSlf7_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/505046934/1521614907",
+			"profile_link_color": "15366B",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Tue Apr 10 22:49:04 +0000 2018",
 		"id": 983839309030707200,
 		"id_str": "983839309030707200",
