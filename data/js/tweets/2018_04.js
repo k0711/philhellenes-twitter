@@ -1,6 +1,541 @@
 Grailbird.data.tweets_2018_04 = 
 [
 	{
+		"created_at": "Mon Apr 16 20:35:41 +0000 2018",
+		"id": 985980068613775400,
+		"id_str": "985980068613775361",
+		"text": "RT @crewsproject: One of my favourite Mycenaean Linear B tablets, recording the landholdings of religious personnel at Pylos over 3,000 yea…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "crewsproject",
+					"name": "CREWS Project",
+					"id": 731517694353281000,
+					"id_str": "731517694353281024",
+					"indices": [
+						3,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 505046934,
+			"id_str": "505046934",
+			"name": "Philhellenes",
+			"screen_name": "philhellenes",
+			"location": "Heraklion, Crete",
+			"description": "Account of https://t.co/K1JFEoKWE3, tweeting news and information for lovers of Greece and its culture. Edited by @keithfrankish. Photo credit Mstyslav Chernov",
+			"url": "https://t.co/K1JFEoKWE3",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/K1JFEoKWE3",
+							"expanded_url": "http://www.philhellenes.org",
+							"display_url": "philhellenes.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/K1JFEoKWE3",
+							"expanded_url": "http://www.philhellenes.org",
+							"display_url": "philhellenes.org",
+							"indices": [
+								11,
+								34
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 92,
+			"friends_count": 127,
+			"listed_count": 2,
+			"created_at": "Sun Feb 26 21:44:27 +0000 2012",
+			"favourites_count": 7,
+			"utc_offset": 10800,
+			"time_zone": "Athens",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 359,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/706198465/bf6879ffb7f2320d865bb6291692a262.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/706198465/bf6879ffb7f2320d865bb6291692a262.jpeg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/976348832740052992/Sn7jSlf7_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/976348832740052992/Sn7jSlf7_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/505046934/1521614907",
+			"profile_link_color": "15366B",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Apr 15 16:23:46 +0000 2018",
+			"id": 985554283063119900,
+			"id_str": "985554283063119873",
+			"text": "One of my favourite Mycenaean Linear B tablets, recording the landholdings of religious personnel at Pylos over 3,0… https://t.co/STJ5xAQIwk",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/STJ5xAQIwk",
+						"expanded_url": "https://twitter.com/i/web/status/985554283063119873",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 731517694353281000,
+				"id_str": "731517694353281024",
+				"name": "CREWS Project",
+				"screen_name": "crewsproject",
+				"location": "Cambridge, England",
+				"description": "Contexts of and Relations between Early Writing Systems (CREWS) is a European Research Council funded project (grant no. 677758) based at Cambridge University.",
+				"url": "https://t.co/C1e2CLyIXY",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/C1e2CLyIXY",
+								"expanded_url": "https://crewsproject.wordpress.com/",
+								"display_url": "crewsproject.wordpress.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1196,
+				"friends_count": 1640,
+				"listed_count": 26,
+				"created_at": "Sat May 14 16:13:04 +0000 2016",
+				"favourites_count": 1375,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1159,
+				"lang": "en-gb",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/731518245451268096/6dGpbykj_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/731518245451268096/6dGpbykj_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/731517694353281024/1483533246",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 36,
+			"favorite_count": 64,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 36,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Mon Apr 16 20:35:07 +0000 2018",
+		"id": 985979926422663200,
+		"id_str": "985979926422663168",
+		"text": "RT @byzantinepower: Theodosian capital fr the atrium of the C5th Church of the Acheiropoietos, Thessaloniki (Museum of Byzantine Culture).…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "byzantinepower",
+					"name": "Byzantine Ambassador",
+					"id": 252669325,
+					"id_str": "252669325",
+					"indices": [
+						3,
+						18
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 505046934,
+			"id_str": "505046934",
+			"name": "Philhellenes",
+			"screen_name": "philhellenes",
+			"location": "Heraklion, Crete",
+			"description": "Account of https://t.co/K1JFEoKWE3, tweeting news and information for lovers of Greece and its culture. Edited by @keithfrankish. Photo credit Mstyslav Chernov",
+			"url": "https://t.co/K1JFEoKWE3",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/K1JFEoKWE3",
+							"expanded_url": "http://www.philhellenes.org",
+							"display_url": "philhellenes.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/K1JFEoKWE3",
+							"expanded_url": "http://www.philhellenes.org",
+							"display_url": "philhellenes.org",
+							"indices": [
+								11,
+								34
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 92,
+			"friends_count": 127,
+			"listed_count": 2,
+			"created_at": "Sun Feb 26 21:44:27 +0000 2012",
+			"favourites_count": 7,
+			"utc_offset": 10800,
+			"time_zone": "Athens",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 359,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/706198465/bf6879ffb7f2320d865bb6291692a262.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/706198465/bf6879ffb7f2320d865bb6291692a262.jpeg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/976348832740052992/Sn7jSlf7_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/976348832740052992/Sn7jSlf7_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/505046934/1521614907",
+			"profile_link_color": "15366B",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Apr 16 20:23:06 +0000 2018",
+			"id": 985976902811897900,
+			"id_str": "985976902811897863",
+			"text": "Theodosian capital fr the atrium of the C5th Church of the Acheiropoietos, Thessaloniki (Museum of Byzantine Cultur… https://t.co/H5E7ugxajc",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/H5E7ugxajc",
+						"expanded_url": "https://twitter.com/i/web/status/985976902811897863",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 252669325,
+				"id_str": "252669325",
+				"name": "Byzantine Ambassador",
+				"screen_name": "byzantinepower",
+				"location": "Constantinople",
+				"description": "The Emperor is not available, please leave a msg.",
+				"url": "https://t.co/3xYp0dvFi4",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/3xYp0dvFi4",
+								"expanded_url": "http://www.byzantineambassador.co.uk",
+								"display_url": "byzantineambassador.co.uk",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 8492,
+				"friends_count": 2702,
+				"listed_count": 192,
+				"created_at": "Tue Feb 15 17:26:36 +0000 2011",
+				"favourites_count": 10815,
+				"utc_offset": 3600,
+				"time_zone": "Casablanca",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 68450,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "9266CC",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000119874126/87808ae4b0bf5561d71a05ecfa5690ab.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000119874126/87808ae4b0bf5561d71a05ecfa5690ab.jpeg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/869529831549140993/xC11IZyv_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/869529831549140993/xC11IZyv_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/252669325/1459959203",
+				"profile_link_color": "9266CC",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "EADEAA",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4,
+			"favorite_count": 7,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Mon Apr 16 10:53:04 +0000 2018",
+		"id": 985833447175356400,
+		"id_str": "985833447175356418",
+		"text": "Some mezedes to go with your raki: Meeting Patrick Leigh Fermour, Why Greek debt kept rising, Greece &amp; Ethiopia, An… https://t.co/S3MejK8IMg",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/S3MejK8IMg",
+					"expanded_url": "https://twitter.com/i/web/status/985833447175356418",
+					"display_url": "twitter.com/i/web/status/9…",
+					"indices": [
+						121,
+						144
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 505046934,
+			"id_str": "505046934",
+			"name": "Philhellenes",
+			"screen_name": "philhellenes",
+			"location": "Heraklion, Crete",
+			"description": "Account of https://t.co/K1JFEoKWE3, tweeting news and information for lovers of Greece and its culture. Edited by @keithfrankish. Photo credit Mstyslav Chernov",
+			"url": "https://t.co/K1JFEoKWE3",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/K1JFEoKWE3",
+							"expanded_url": "http://www.philhellenes.org",
+							"display_url": "philhellenes.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/K1JFEoKWE3",
+							"expanded_url": "http://www.philhellenes.org",
+							"display_url": "philhellenes.org",
+							"indices": [
+								11,
+								34
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 92,
+			"friends_count": 127,
+			"listed_count": 2,
+			"created_at": "Sun Feb 26 21:44:27 +0000 2012",
+			"favourites_count": 7,
+			"utc_offset": 10800,
+			"time_zone": "Athens",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 359,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/706198465/bf6879ffb7f2320d865bb6291692a262.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/706198465/bf6879ffb7f2320d865bb6291692a262.jpeg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/976348832740052992/Sn7jSlf7_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/976348832740052992/Sn7jSlf7_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/505046934/1521614907",
+			"profile_link_color": "15366B",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sat Apr 14 21:26:28 +0000 2018",
 		"id": 985268071668637700,
 		"id_str": "985268071668637696",
