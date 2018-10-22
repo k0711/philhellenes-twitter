@@ -139,6 +139,191 @@ Grailbird.data.tweets_2018_10 =
 			},
 			"protected": false,
 			"followers_count": 3484,
+			"friends_count": 2893,
+			"listed_count": 72,
+			"created_at": "Wed Jun 22 13:17:28 +0000 2011",
+			"favourites_count": 15445,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11255,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1407816374/justine_hand2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1407816374/justine_hand2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/321986666/1430742876",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 12,
+		"favorite_count": 37,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "\"A growing volume of opinion in this country has developed which would welcome the restoration of some at least of these works to the place where their creators meant them to be seen.\"\n\n— Lawrence Durrell &amp; other signatories, on restoration of Parthenon Marbles (1962)\n\n@CCavafy https://t.co/H7IrRRrgdn"
+	},
+	{
+		"created_at": "Fri Oct 19 14:25:28 +0000 2018",
+		"id": 1053291040898252800,
+		"id_str": "1053291040898252800",
+		"full_text": "\"A growing volume of opinion in this country has developed which would welcome the restoration of some at least of these works to the place where their creators meant them to be seen.\"\n\n— Lawrence Durrell &amp; other signatories, on restoration of Parthenon Marbles (1962)\n\n@CCavafy https://t.co/H7IrRRrgdn",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			282
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CCavafy",
+					"name": "C.P. Cavafy",
+					"id": 2872159805,
+					"id_str": "2872159805",
+					"indices": [
+						274,
+						282
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1053290718813438000,
+					"id_str": "1053290718813437952",
+					"indices": [
+						283,
+						306
+					],
+					"media_url": "http://pbs.twimg.com/media/Dp4KVAQXQAAMfx7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dp4KVAQXQAAMfx7.jpg",
+					"url": "https://t.co/H7IrRRrgdn",
+					"display_url": "pic.twitter.com/H7IrRRrgdn",
+					"expanded_url": "https://twitter.com/DurrellSociety/status/1053291040898252800/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 351,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 386,
+							"h": 748,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 386,
+							"h": 748,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1053290718813438000,
+					"id_str": "1053290718813437952",
+					"indices": [
+						283,
+						306
+					],
+					"media_url": "http://pbs.twimg.com/media/Dp4KVAQXQAAMfx7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dp4KVAQXQAAMfx7.jpg",
+					"url": "https://t.co/H7IrRRrgdn",
+					"display_url": "pic.twitter.com/H7IrRRrgdn",
+					"expanded_url": "https://twitter.com/DurrellSociety/status/1053291040898252800/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 351,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 386,
+							"h": 748,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 386,
+							"h": 748,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 321986666,
+			"id_str": "321986666",
+			"name": "Durrell Society",
+			"screen_name": "DurrellSociety",
+			"location": "Hotel des Princes | Avignon",
+			"description": "The International Lawrence Durrell Society 𝄐 'Books are like love letters; they are destined for a particular person.' /da capo/",
+			"url": "http://t.co/3mfbwgAPbN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/3mfbwgAPbN",
+							"expanded_url": "http://www.lawrencedurrell.org",
+							"display_url": "lawrencedurrell.org",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3484,
 			"friends_count": 2890,
 			"listed_count": 72,
 			"created_at": "Wed Jun 22 13:17:28 +0000 2011",
