@@ -1,6 +1,131 @@
 Grailbird.data.tweets_2018_10 = 
 [
 	{
+		"created_at": "Sun Oct 28 00:21:00 +0000 2018",
+		"id": 1056340017071710200,
+		"id_str": "1056340017071710208",
+		"full_text": "Debt-Ridden Greece's Only Theater Museum Shuts Down | https://t.co/oZQBMcHPHQ - https://t.co/NXrGw0DdWD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			103
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/oZQBMcHPHQ",
+					"expanded_url": "http://GreekReporter.com",
+					"display_url": "GreekReporter.com",
+					"indices": [
+						54,
+						77
+					]
+				},
+				{
+					"url": "https://t.co/NXrGw0DdWD",
+					"expanded_url": "https://greece.greekreporter.com/?p=547507",
+					"display_url": "greece.greekreporter.com/?p=547507",
+					"indices": [
+						80,
+						103
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 505046934,
+			"id_str": "505046934",
+			"name": "Philhellenes",
+			"screen_name": "philhellenes",
+			"location": "Heraklion, Crete",
+			"description": "Account of https://t.co/K1JFEoKWE3, tweeting news and information for lovers of Greece and its culture. Edited by @keithfrankish. Photo credit Mstyslav Chernov",
+			"url": "https://t.co/K1JFEoKWE3",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/K1JFEoKWE3",
+							"expanded_url": "http://www.philhellenes.org",
+							"display_url": "philhellenes.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/K1JFEoKWE3",
+							"expanded_url": "http://www.philhellenes.org",
+							"display_url": "philhellenes.org",
+							"indices": [
+								11,
+								34
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 111,
+			"friends_count": 129,
+			"listed_count": 2,
+			"created_at": "Sun Feb 26 21:44:27 +0000 2012",
+			"favourites_count": 10,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 382,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/976348832740052992/Sn7jSlf7_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/976348832740052992/Sn7jSlf7_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/505046934/1521614907",
+			"profile_link_color": "15366B",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Debt-Ridden Greece's Only Theater Museum Shuts Down | https://t.co/oZQBMcHPHQ - https://t.co/NXrGw0DdWD"
+	},
+	{
 		"created_at": "Fri Oct 26 04:32:34 +0000 2018",
 		"id": 1055678550966190100,
 		"id_str": "1055678550966190080",
