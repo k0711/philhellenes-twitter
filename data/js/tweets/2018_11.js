@@ -92,6 +92,145 @@ Grailbird.data.tweets_2018_11 =
 				}
 			},
 			"protected": false,
+			"followers_count": 1077,
+			"friends_count": 1117,
+			"listed_count": 73,
+			"created_at": "Fri Apr 03 08:46:48 +0000 2015",
+			"favourites_count": 20124,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5766,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/808929149846949888/8kT0XMa__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/808929149846949888/8kT0XMa__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3134729586/1431843977",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 9,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#BritishMuseum agrees to return treasures to Africa by way of loan https://t.co/PiZ6qcMwUr  Now, @britishmuseum, how about a constructive dialogue with #Greece for the return of the #Parthenon Sculptures?"
+	},
+	{
+		"created_at": "Fri Nov 23 00:01:16 +0000 2018",
+		"id": 1065757134267138000,
+		"id_str": "1065757134267138049",
+		"full_text": "#BritishMuseum agrees to return treasures to Africa by way of loan https://t.co/PiZ6qcMwUr  Now, @britishmuseum, how about a constructive dialogue with #Greece for the return of the #Parthenon Sculptures?",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			204
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BritishMuseum",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"text": "Greece",
+					"indices": [
+						152,
+						159
+					]
+				},
+				{
+					"text": "Parthenon",
+					"indices": [
+						182,
+						192
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "britishmuseum",
+					"name": "British Museum",
+					"id": 19066345,
+					"id_str": "19066345",
+					"indices": [
+						97,
+						111
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/PiZ6qcMwUr",
+					"expanded_url": "https://www.theaustralian.com.au/news/world/the-times/britain-to-send-looted-treasures-back-to-africa-but-its-still-only-a-loan/news-story/92c8d7473f1e7cbb3b58cba757e99ec0",
+					"display_url": "theaustralian.com.au/news/world/the…",
+					"indices": [
+						67,
+						90
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3134729586,
+			"id_str": "3134729586",
+			"name": "George Vardas",
+			"screen_name": "VardasGeorge",
+			"location": "Sydney Australia",
+			"description": "Secretary International Association for Reunification of Parthenon Sculptures. Secretary Australian Hellenic Council. Cultural heritage writer. AEKAthens tragic",
+			"url": "https://t.co/zMXS8MB3Fy",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zMXS8MB3Fy",
+							"expanded_url": "http://parthenonsculptures.blogspot.com.au",
+							"display_url": "parthenonsculptures.blogspot.com.au",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
 			"followers_count": 1076,
 			"friends_count": 1116,
 			"listed_count": 73,
