@@ -1,6 +1,122 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Wed Jan 09 14:58:56 +0000 2019",
+		"id": 1083015272192184300,
+		"id_str": "1083015272192184321",
+		"full_text": "We're having some cold weather in Greece right now, including snow in parts. You can keep an eye on weather in different parts of the country using the webcams linked here on the Philhellenes site - https://t.co/9ayfdb84Ny",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			222
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/9ayfdb84Ny",
+					"expanded_url": "https://wp.me/P6tmIG-k4",
+					"display_url": "wp.me/P6tmIG-k4",
+					"indices": [
+						199,
+						222
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 505046934,
+			"id_str": "505046934",
+			"name": "Philhellenes",
+			"screen_name": "philhellenes",
+			"location": "Heraklion, Crete",
+			"description": "Account of https://t.co/K1JFEoKWE3, tweeting news and information for lovers of Greece and its culture. Edited by @keithfrankish. Photo credit Mstyslav Chernov",
+			"url": "https://t.co/K1JFEoKWE3",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/K1JFEoKWE3",
+							"expanded_url": "http://www.philhellenes.org",
+							"display_url": "philhellenes.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/K1JFEoKWE3",
+							"expanded_url": "http://www.philhellenes.org",
+							"display_url": "philhellenes.org",
+							"indices": [
+								11,
+								34
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 112,
+			"friends_count": 131,
+			"listed_count": 1,
+			"created_at": "Sun Feb 26 21:44:27 +0000 2012",
+			"favourites_count": 10,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 399,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1083025335967498240/urvoDoM8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1083025335967498240/urvoDoM8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/505046934/1547048150",
+			"profile_link_color": "15366B",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "We're having some cold weather in Greece right now, including snow in parts. You can keep an eye on weather in different parts of the country using the webcams linked here on the Philhellenes site - https://t.co/9ayfdb84Ny"
+	},
+	{
 		"created_at": "Tue Jan 08 16:55:50 +0000 2019",
 		"id": 1082682302524809200,
 		"id_str": "1082682302524809221",
